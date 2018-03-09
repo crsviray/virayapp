@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="uic.edu.ph" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Francisco Demo Tabs</name>
+    <name>Viray Cordova</name>
     <description>
         A basic Framework7 template for PhoneGap.
     </description>
@@ -29,7 +29,7 @@
     <!--<plugin name="cordova-plugin-wkwebview-engine" spec="~1.0.1" />-->
 
     <platform name="android">
-        <icon src="res/ite.png" density="ldpi" />
+        <icon src="res/uic-logo2.png" density="ldpi" />
     </platform>
 
 
